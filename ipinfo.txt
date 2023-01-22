@@ -1,0 +1,47 @@
+Domain: www.georgebrown.ca
+Domain Server IP: 99.79.139.11
+- Geolocation -
+City: Montreal
+State: Quebec
+Country: Canada
+Postal Code: H1A 0A1
+Time Zone: -05:00
+
+
+Domain: www.humber.ca
+Domain Server IP: 192.75.71.50
+- Geolocation -
+City: Toronto
+State: Ontario
+Country: Canada
+Postal Code: M9W 5L7
+Time Zone: -05:00
+
+Domain: utoronto.ca 
+Domain Server IP: 128.100.166.120 
+- Geolocation -
+City: Toronto
+State: Ontario
+Country: Canada
+Postal Code: L0R 1E0
+Time Zone: -05:00
+
+Domain: www.torontomu.ca
+Domain Server IP: 141.117.126.202 
+- Geolocation -
+City: Toronto
+State: Ontario
+Country: Canada
+Postal Code: M5B 2B8
+Time Zone: -05:00
+
+Domain: https://www.centennialcollege.ca/ 
+main Server IP: 192.75.71.50
+- Geolocation -
+City: Toronto
+State: Ontario
+Country: Canada
+Postal Code: M3B 0A3 
+Time Zone: -05:00
+
+    

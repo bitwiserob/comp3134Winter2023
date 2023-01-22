@@ -1,0 +1,174 @@
+Name: BITWISEROB.NET
+Registry Domain ID: 2566560754_DOMAIN_NET-VRSN
+Domain Status:
+clientDeleteProhibited
+clientRenewProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+NS59.DOMAINCONTROL.COM
+
+NS60.DOMAINCONTROL.COM
+
+Dates
+Registry Expiration: 2023-10-18 00:17:57 UTC
+Updated: 2022-11-12 18:51:21 UTC
+Created: 2020-10-18 00:17:57 UTC
+Contact Information
+Registrant:
+Handle: 1
+Name: Registration Private
+Organization: Domains By Proxy, LLC
+Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=bitwiserob.net
+Kind: individual
+Mailing Address: DomainsByProxy.com 2155 E Warner Rd, Tempe, Arizona, 85284, United States
+Administrative:
+Handle: 2
+Name: Registration Private
+Organization: Domains By Proxy, LLC
+Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=bitwiserob.net
+Kind: individual
+Mailing Address: DomainsByProxy.com 2155 E Warner Rd, Tempe, Arizona, 85284, United States
+Technical:
+Handle: 3
+Name: Registration Private
+Organization: Domains By Proxy, LLC
+Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=bitwiserob.net
+Kind: individual
+Mailing Address: DomainsByProxy.com 2155 E Warner Rd, Tempe, Arizona, 85284, United States
+Billing:
+Handle: 4
+Name: Registration Private
+Organization: Domains By Proxy, LLC
+Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=bitwiserob.net
+Kind: individual
+Mailing Address: DomainsByProxy.com 2155 E Warner Rd, Tempe, Arizona, 85284, United States
+
+
+
+
+omain Information
+Name: georgebrown.ca
+Internationalized Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Domain Status:
+clientTransferProhibited
+Nameservers:
+ns1.d-zone.ca
+
+ns1.georgebrown.ca
+
+ns2.d-zone.ca
+
+ns2.georgebrown.ca
+
+Dates
+Registry Expiration: 2023-07-04 04:00:00 UTC
+Updated: 2023-01-21 16:03:12 UTC
+Created: 2002-07-04 08:35:23 UTC
+Contact Information
+Registrant:
+Handle: R21312-CIRA
+Name: George Brown College (Toronto)
+Email: ariem@georgebrown.ca
+Phone: tel:+1.4164155000;ext=5012
+Fax: tel:+1.4164154667
+Kind: individual
+Mailing Address: P.O. Box 1015 Station B, Toronto, ON, M5T2T9, CA
+Administrative:
+Handle: C883431-CIRA
+Name: Andrew Riem
+Organization: George Brown College
+Email: ariem@georgebrown.ca
+Phone: tel:+1.4164155000;ext=5012
+Fax: tel:+1.4164154667
+Kind: individual
+Mailing Address: P.O. Box 1015 Station B, Toronto, ON, M5T2T9, CA
+Technical:
+Handle: C883432-CIRA
+Name: Dorin Grunberg
+Organization: George Brown College
+Email: dgrunberg@georgebrown.ca
+Phone: tel:+1.4164155000;ext=4935
+Fax: tel:+1.4164154836
+Kind: individual
+Mailing Address: P.O. Box 1015 Station B, Toronto, ON, M5T2T9, CA
+Billing:
+Phone: tel:
+Fax: tel:
+Kind: individual
+
+
+Name: humber.ca
+Internationalized Domain Name: humber.ca
+Registry Domain ID: D86109-CIRA
+Domain Status:
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+ns3.humber.ca
+
+ns4.humber.ca
+
+Dates
+Registry Expiration: 2026-08-01 04:00:00 UTC
+Updated: 2021-10-03 13:17:38 UTC
+Created: 2001-10-31 17:16:13 UTC
+Contact Information
+Registrant:
+Handle: 99088328-CIRA
+Name: Humber College (Ontario)
+Email: adel.nagaria@humber.ca
+Phone: tel:+1.4166756622
+Kind: individual
+Mailing Address: 205 Humber College blvd, Toronto, ON, M9W5L7, CA
+Administrative:
+Handle: 57123470-CIRA
+Name: Adel Nagaria
+Organization: Humber College ITAL
+Email: itsonlinecontact@humber.ca
+Phone: tel:+1.4166756622;ext=8888
+Kind: individual
+Mailing Address: 205 Humber College Blvd, Toronto, ON, M9W5L7, CA
+Technical:
+Handle: 57123470-CIRA
+Name: Adel Nagaria
+Organization: Humber College ITAL
+Email: itsonlinecontact@humber.ca
+Phone: tel:+1.4166756622;ext=8888
+Kind: individual
+Mailing Address: 205 Humber College Blvd, Toronto, ON, M9W5L7, CA
+Billing:
+Phone: tel:
+Fax: tel:
+Kind: individual
+
+Registrant:
+Handle: 18785276-CIRA
+Name: University Toronto
+Email: russell.sutherland@utoronto.ca
+Phone: tel:+1.4169780470
+Kind: individual
+Mailing Address: 4 Bancroft Avenue, Room 102, Toronto, ON, M5S1C1, CA
+Administrative:
+Handle: 2026370-CIRA
+Name: Abuse Contact
+Organization: University of Toronto
+Email: abuse@utoronto.ca
+Phone: tel:+1.4169780470
+Fax: tel:+1.4169786620
+Kind: individual
+Mailing Address: 4 Bancroft Ave., Toronto, ON, M5S1C1, CA
+Technical:
+Handle: C851155-CIRA
+Name: Russell Sutherland
+Organization: University of Toronto
+Email: russell.sutherland@utoronto.ca
+Phone: tel:+1.4169780470
+Fax: tel:+1.4169786620
+Kind: individual
+Mailing Address: 4 Bancroft Ave., Toronto, ON, M5S1C1, CA
+Billing:
+Phone: tel:
+Fax: tel:
+Kind: individual

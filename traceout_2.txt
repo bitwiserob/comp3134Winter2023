@@ -1,0 +1,15 @@
+➜  cysec git:(main) ✗ traceroute 159.203.2.1
+traceroute to 159.203.2.1 (159.203.2.1), 30 hops max, 60 byte packets
+ 1  mynetwork (192.168.2.1)  3.623 ms  3.515 ms  3.473 ms
+ 2  toroon2733w_coreloop.net.bell.ca (142.124.36.203)  4.425 ms  4.381 ms  4.341 ms
+ 3  * * *
+ 4  * * *
+ 5  tcore3-toronto63_39.net.bell.ca (64.230.59.202)  202.859 ms tcore3-toronto12_37.net.bell.ca (64.230.59.198)  202.821 ms tcore3-toronto63_39.net.bell.ca (64.230.59.202)  202.777 ms
+ 6  cr01-toroonxnhe9-bundle-ether1.net.bell.ca (142.124.127.159)  202.734 ms cr01-toroonxnhe9-bundle-ether4.net.bell.ca (142.124.127.165)  6.080 ms *
+ 7  cr01-toroonxnhe9_bundle-ether10.net.bell.ca (142.124.127.37)  5.928 ms  5.189 ms  5.078 ms
+ 8  toro-b3-link.ip.twelve99.net (213.248.97.222)  180.683 ms  4.984 ms  180.592 ms
+ 9  digitalocean-ic313813-toro-b1.ip.twelve99-cust.net (62.115.9.210)  4.894 ms  4.847 ms  4.736 ms
+10  * * *
+11  * * *
+12  riskcheck.advancedais.com (159.203.2.1)  179.485 ms  4.101 ms  4.015 ms
+
