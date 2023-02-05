@@ -1,0 +1,13 @@
+root@lamp-vps:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+03:02:56.600326 IP lamp-vps.ssh > 198.211.111.194.23658: Flags [P.], seq 730722940:730723004, ack 1585114586, win 502, options [nop,nop,TS val 2715544568 ecr 1882742829], length 64
+03:02:56.602788 IP lamp-vps.ssh > 198.211.111.194.23658: Flags [P.], seq 64:128, ack 1, win 502, options [nop,nop,TS val 2715544570 ecr 1882742829], length 64
+03:02:56.602836 IP lamp-vps.ssh > 198.211.111.194.23658: Flags [P.], seq 128:256, ack 1, win 502, options [nop,nop,TS val 2715544571 ecr 1882742829], length 128
+03:02:56.602910 IP lamp-vps.ssh > 198.211.111.194.23658: Flags [P.], seq 256:320, ack 1, win 502, options [nop,nop,TS val 2715544571 ecr 1882742829], length 64
+03:02:56.621771 IP 198.211.111.194.23658 > lamp-vps.ssh: Flags [.], ack 64, win 501, options [nop,nop,TS val 1882742856 ecr 2715544568], length 0
+03:02:56.624638 IP 198.211.111.194.23658 > lamp-vps.ssh: Flags [.], ack 128, win 501, options [nop,nop,TS val 1882742859 ecr 2715544570], length 0
+03:02:56.624639 IP 198.211.111.194.23658 > lamp-vps.ssh: Flags [.], ack 256, win 501, options [nop,nop,TS val 1882742859 ecr 2715544571], length 0
+03:02:56.624639 IP 198.211.111.194.23658 > lamp-vps.ssh: Flags [.], ack 320, win 501, options [nop,nop,TS val 1882742859 ecr 2715544571], length 0
+03:03:07.071900 IP 047-035-182-066.res.spectrum.com.41174 > lamp-vps.telnet: Flags [S], seq 2680881682, win 55457, length 0
+03:03:11.640039 IP 198.211.111.194.23658 > lamp-vps.ssh: Flags [.], ack 320, win 501, options [nop,nop,TS val 1882757874 ecr 2715544571], length 0
+03:03:11.640081 IP lamp-vps.ssh > 198.211.111.194.23658: Flags [.], ack 1, win 502, options [nop,nop,TS val 2715559608 ecr 1882742859], length 0

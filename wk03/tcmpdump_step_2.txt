@@ -1,0 +1,11 @@
+root@lamp-vps:~/school/comp3134Winter2023# tcpdump -c 5 -i eth0 
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+02:58:54.742197 IP lamp-vps.ssh > 162.243.190.66.45196: Flags [P.], seq 3387702496:3387702624, ack 3515425591, win 502, options [nop,nop,TS val 3578943137 ecr 1311848310], length 128
+02:58:54.742265 IP lamp-vps.ssh > 162.243.190.66.45196: Flags [P.], seq 128:320, ack 1, win 502, options [nop,nop,TS val 3578943137 ecr 1311848310], length 192
+02:58:54.742308 IP lamp-vps.ssh > 162.243.190.66.45196: Flags [P.], seq 320:384, ack 1, win 502, options [nop,nop,TS val 3578943137 ecr 1311848310], length 64
+02:58:54.742620 IP 162.243.190.66.45196 > lamp-vps.ssh: Flags [.], ack 128, win 1229, options [nop,nop,TS val 1311848318 ecr 3578943137], length 0
+02:58:54.742620 IP 162.243.190.66.45196 > lamp-vps.ssh: Flags [.], ack 320, win 1229, options [nop,nop,TS val 1311848318 ecr 3578943137], length 0
+5 packets captured
+45 packets received by filter
+8 packets dropped by kernel
